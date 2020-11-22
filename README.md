@@ -3,3 +3,4 @@
 1CPU级多核并行计算
 2全国两期地表覆盖转移计算耗时5~6h
 3EXCEL报表导出
+备注：使用时，将spatialoperation下载，修改为x64置于Matrix目录下即可运行计算
